@@ -3,3 +3,6 @@
 
 # Ignore Django migration files
 **/migrations/
+# Ignore __pycache__ directories and .pyc files
+__pycache__/
+*.pyc
