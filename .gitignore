@@ -1,0 +1,5 @@
+# Ignore database files
+*.sqlite3
+
+# Ignore Django migration files
+**/migrations/
